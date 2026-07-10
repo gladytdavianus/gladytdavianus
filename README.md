@@ -4,7 +4,7 @@
 
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Glady%20👋&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Davi%20👋&fontSize=40&fontColor=ffffff" />
 </p>
 
 <h3 align="center">Instrument & Control Engineer → Data Engineer</h3>
@@ -55,17 +55,21 @@ End to end cryptocurrency market data pipeline — CoinGecko API → PySpark (tr
 
 ---
 
-### GitHub Stats
+### Contact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gladytdavianus&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladytdavianus&layout=compact&theme=radical" height="150"/>
+  <a href="https://www.linkedin.com/in/glady-t-davianus-4554a797/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gladytdavianus@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=10+years+in+Instrumentation+%26+Control;Now+building+data+pipelines+that+don't+break;Reliability-minded+by+background%2C+by+choice" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=10+years+in+Instrumentation+%26+Control;Now+building+data+pipelines+that+don't+break;Reliability+minded+by+background%2C+by+choice" />
 </p>
 
 <!-- Footer -->
